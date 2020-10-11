@@ -190,7 +190,7 @@ def get_config_variables():
                 "display_name": "OpenSlides Solarized",
             },
             {
-                "value": "openslides-solarized-dark-theme",
+                "value": "openslides-bdp-light-theme",
                 "display_name": "BdP",
             },
         ),
