@@ -189,6 +189,10 @@ def get_config_variables():
                 "value": "openslides-solarized-dark-theme",
                 "display_name": "OpenSlides Solarized",
             },
+            {
+                "value": "openslides-solarized-dark-theme",
+                "display_name": "BdP",
+            },
         ),
         weight=154,
         subgroup="System",
